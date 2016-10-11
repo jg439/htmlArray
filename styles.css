@@ -1,15 +1,13 @@
-
-		table.gradienttable th {
-			filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d5e3e4', endColorstr='#b3c8cc',GradientType=0 );
-			position: relative;
-			z-index: -1;
-		}
-		table.gradienttable td {
-			filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ebecda', endColorstr='#ceceb7',GradientType=0 );
-			position: relative;
-			z-index: -1;
-		}
-
+table.gradienttable th {
+		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d5e3e4', endColorstr='#b3c8cc',GradientType=0 );
+		position: relative;
+		z-index: -1;
+}
+table.gradienttable td {
+		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ebecda', endColorstr='#ceceb7',GradientType=0 );
+		position: relative;
+		z-index: -1;
+}
 	
 table.gradienttable {
 	font-family: verdana,arial,sans-serif;
